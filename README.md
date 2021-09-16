@@ -1,5 +1,9 @@
 ### Olá, eu sou Nathan Souza de Oliveira! 👋
 
+#### Sobre mim
+- 💻 Desenvolvedor Full-Stack.
+- 🎯 Atualmente etudando Node.js e Express.
+
 ##
 
 <div>
