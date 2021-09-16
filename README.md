@@ -4,10 +4,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanoliveira3&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-## Olá, eu sou Nathan Souza de Oliveira! 👋
+# Olá, eu sou Nathan Souza de Oliveira! 👋
 
-### Sobre mim
-##
+## Sobre mim
+
 - 💻 Desenvolvedor Full-Stack.
 - 🎯 Atualmente etudando Node.js e Express.
 
@@ -22,8 +22,8 @@
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </div>
   
- ### Contato
- ##
+ ## Contato
+ 
  <div>   
   <a href = "mailto:nathanoliveira3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathan-souza-de-oliveira-70b89538" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
